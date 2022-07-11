@@ -1,0 +1,13 @@
+img{
+    width: 150px;
+    height: 150;
+}
+
+.b{
+    background-color: white;
+    padding: 30px;
+    border-radius: 20px;
+    display: inline-block;
+    box-shadow: 5px 5px 5px grey;
+    width: 50%;
+}
